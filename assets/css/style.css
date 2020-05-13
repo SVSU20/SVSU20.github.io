@@ -659,7 +659,17 @@ a:hover {
 .intro .intro-title {
   color: #fff;
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 2.5rem;
+}
+.intro .covid {
+  color: #f00;
+  font-weight: 600;
+  font-size: 2rem;
+}
+.intro .stay {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.5rem;
 }
 
 @media (min-width: 768px) {

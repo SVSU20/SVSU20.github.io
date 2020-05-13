@@ -25,7 +25,7 @@
 
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">SVSU</a>
+      <a class="navbar-brand js-scroll" href="https://svsu.ac.in/">SVSU</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
@@ -46,6 +46,9 @@
             <a class="nav-link js-scroll" href="#work">News</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll" href="#work2">Photo Gallery</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll" href="#contact">Contact</a>
           </li>
         </ul>
@@ -59,8 +62,9 @@
       <div class="table-cell">
         <div class="container">
         
-          <h1 class="intro-title mb-4">Vishwakarma Study Online</h1>
-          <h6 class="intro-title mb-4">Covid-19 E-Library</h6>
+          <h1 class="intro-title mb-4">SVSU Study Online</h1>
+          <h6 class="covid">Covid-19 E-Library</h6>
+          <h4 class="stay">Stay Safe and Stay Online</h4>
         </div>
       </div>
     </div>
@@ -82,32 +86,32 @@
                     </div>
                   </div>
                   <h4>
-                    <a href="" target="_blank" itemprop="url" rel="noopener">
+                    
                       <span itemprop="name">
                         Shri Raj Nehru
                       </span>
-                    </a>
+                    
                   </h4>
                   <h6>
-                    <a href="" target="_blank" itemprop="url" rel="noopener">
+                    
                       <span itemprop="name">
                                 Vice - Chancellor
                       </span>
-                    </a>
+                    
                   </h6>
                   <h6>
-                    <a href="" target="_blank" itemprop="url" rel="noopener">
+                    <a href="https://svsu.ac.in/" target="_blank" itemprop="url" rel="noopener">
                       <span itemprop="name" >
                         Shri Vishwakarma Skill University
                       </span>
                     </a>
                   </h6>
                   <h6>
-                    <a href="" target="_blank" itemprop="url" rel="noopener">
+                    
                       <span itemprop="name" >
                         Dudhola,Palwar Haryana
                       </span>
-                    </a>
+                    
                   </h6>
                 </div>
                 <div class="col-md-6">
@@ -118,10 +122,11 @@
                       </h5>
                     </div>
                     <p class="lead">
-                      Dear Information Seekers, pleasure to present you the initiatives adopted by Central Library to support your teaching, research and learning needs during Covid-19 lockdown period. Open resources developed by Govt of India many Publishers and Universities are made accessible during this lockdown phase, but they are scattered on various platforms. At Central Library, we have tried to organize and facilitate these resources in one place to save your time and effort.
+                      Dear Information Seekers,
+                      <p class="lead">Pleasure to intimate you initiatives adopted by Central Library to support your teaching, research and learning needs during Covid-19 lockdown period.Some open resources developed by the Govt of India, many Publishers and Universities are made accessible during this lockdown phase, but they are scattered on various platforms. The Central Library has tried to organize and facilitate these resources in one place to save your time and effort.</p>
                     </p>
                     <p class="lead">
-                      The resources includes  are e-newspapers, e-books, e-journals, audio video lectures,school learning resources etc.
+                      The resources  are included e-newspapers, e-books, e-journals, audio-video lectures,school learning resources,MOOC courses,Hindi poems,novels,movies and short stories,English Novels and short stories,etc.
                     </p>
                   </div>
                 </div>
@@ -215,13 +220,13 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="https://www.svsulibrary.in/E-Thesis.aspx"><img src="assets/img/ethesis.jpg" alt="" class="img-fluid"></a>
+                <a href="https://www.svsulibrary.in/MOOC_Courses.aspx"><img src="assets/img/mooc.jpg" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
                   
                 </div>
-                <h3 class="card-title"><a href="https://www.svsulibrary.in/E-Thesis.aspx">E-Thesis</a></h3>
+                <h3 class="card-title"><a href="https://www.svsulibrary.in/MOOC_Courses.aspx">MOOC</a></h3>
                 <p class="card-description">
                 </p>
               </div>
@@ -327,19 +332,20 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="https://swayam.gov.in/"><img src="assets/img/mooc.jpg" alt="" class="img-fluid"></a>
+                <a href="https://www.svsulibrary.in/E-Thesis.aspx"><img src="assets/img/ethesis.jpg" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
                   
                 </div>
-                <h3 class="card-title"><a href="https://swayam.gov.in/">MOOC Courses</a></h3>
+                <h3 class="card-title"><a href="https://www.svsulibrary.in/E-Thesis.aspx">E-Thesis</a></h3>
                 <p class="card-description">
                 </p>
               </div>
               
             </div>
           </div>
+          X
         </div>
       </div>
     </section>
@@ -416,7 +422,78 @@
         </div>
       </div>
     </section>
-
+    <section id="work2" class="portfolio-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a">
+                Photo Gallery
+              </h3>
+              <p class="subtitle-a">
+              </p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/a.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/a.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/f.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/f.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/c.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/c.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/d.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/d.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/e.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/e.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/b.jpg" data-gall="portfolioGallery" class="venobox">
+                <div class="work-img">
+                  <img src="assets/img/b.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(assets/img/wall.jpg)">
       <div class="overlay-mf"></div>
       <div class="container">
@@ -481,8 +558,27 @@
                         <li><span class="ion-ios-telephone"></span> (+91) 9557499468</li>
                         <li><span class="ion-email"></span>jitendra.hvsu@gmail.com</li>
                       </ul>
+                        
                     </div>
-                    
+                    <p class="lead">
+                      
+                    </p>
+                    <p class="lead">
+                      
+                    </p>
+                    <p class="lead">
+                      
+                    </p>
+                    <p class="lead">
+                      
+                    </p>
+                    <p class="lead">
+                      Total Visit
+                    </p>
+                    <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7347043&style=0009&nbdigits=6&type=page&initCount=0" title="Web Counter" Alt="counter free"   border="0" >
+</a>   
                   </div>
                 </div>
               </div>
